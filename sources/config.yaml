@@ -1,0 +1,7 @@
+buildVariable: false
+removeOutlineOverlaps: false
+sources:
+  - Economica-BoldItalic.glyphs
+  - Economica-Bold.glyphs
+  - Economica-Italic.glyphs
+  - Economica-Regular.glyphs
